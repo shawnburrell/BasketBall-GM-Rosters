@@ -9495,7 +9495,7 @@
 
 
 "draftPicks": [
-{"tid": 0,"originalTid": 0,"round": 1,"season": 2017,"dpid": 1},
+{"tid": 0,"originalTid": 0,"round": 1,"season": 2017,"dpid": 1,"abbrev": "PHI"},
 {"tid": 0,"originalTid": 0,"round": 2,"season": 2017,"dpid": 2},
 {"tid": 2,"originalTid": 1,"round": 1,"season": 2017,"dpid": 3,"abbrev": "BKN"},
 {"tid": 1,"originalTid": 1,"round": 2,"season": 2017,"dpid": 4},
@@ -9831,10 +9831,10 @@
 "gameAttributes": [
 {"key": "luxuryPayroll","value": 115000},
 {"key": "luxuryTax","value": 1.5},
-{"key": "maxContract","value": 25000},
-{"key": "minContract","value": 500},
+{"key": "maxContract","value": 250000},
+{"key": "minContract","value": 5000},
 {"key": "minPayroll","value": 84000},
-{"key": "salaryCap","value": 95000}
+{"key": "salaryCap","value": 1000000}
 ]
 
 }
